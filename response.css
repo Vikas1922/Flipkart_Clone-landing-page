@@ -1,0 +1,623 @@
+@media only screen and (min-width: 0px) and (max-width: 480px){
+        #header{
+            display: block;
+            /* border: 1px solid black; */
+            position: static;
+            height: auto;
+            width: auto;
+        }
+
+        #site-logo{
+            /* border: 1px solid red; */
+            text-align: center;
+            height: auto;
+            width: auto;
+        }
+
+        #mid-sec{
+            display: block;
+            /* border: 1px solid green; */
+            height: auto;
+            width: auto;
+            margin: 20px 0px;
+            
+        }
+
+        #user-login-menu{
+            /* border: 1px solid black; */
+            left: 50px;
+        }
+
+        .search-area{
+            width: auto;
+            margin: 0px;
+            margin: 10px 0px;
+            
+        }
+
+        #mid-sec .list-items{
+            margin: 10px 10px;
+            
+        }
+
+        #right-sec{
+            /* border: 1px solid black; */
+            display: flex;
+            width: auto;
+            
+        }
+        .right-sec-menu{
+            /* border: 1px solid black; */
+            right: 53px;
+            top: 34px;
+        }
+
+        #shoping-category{
+            /* border: 1px solid red; */
+            width: auto;
+            height: auto;
+            margin: 10px 0px;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .dropdown-menu{
+            z-index: 1;
+            right: 0px;
+        }
+
+        .home-dropdownMenu{
+            left: 0px;
+            right: 0px;
+        }
+
+        .change-1_1{
+            right: 90px;
+        }
+
+        .change-1{
+            /* border: 1px solid black; */
+            left: 80px;
+            top: 3rem;
+        }
+
+        .close-content{
+            flex-direction: column;
+            margin: 0px;
+        }
+
+        .smartphone-heading{
+            margin: 10px 0px;
+            font-size: 16px;
+        }
+
+        .smartphone-lists{
+            width: auto;
+            margin: 10px 0px;
+        }
+
+        .side-advertise{
+            margin: 0px;
+            width: auto;
+            display: inline-block;
+            padding-left: 20px;
+        }
+
+        #poster{
+            margin: 10px 0px;
+            width: auto;
+            height: auto;
+
+        }
+
+        .poster-img img{
+            width: 22rem;
+        }
+
+        .variety-of-smartphones{
+            height: auto;
+            width: auto;
+        }
+
+        .f9-variety img{
+            /* border: 1px solid red; */
+            width: 375px;
+        }
+
+        .gifting-lists{
+            width: auto;
+            height: auto;
+        }
+        .gifting-heading{
+            font-size: 16px;
+        }
+
+        .gifting-items{
+            width: auto;
+            height: auto;
+            flex-wrap: nowrap;
+            flex-direction: column;
+        }
+
+        .g9-variety{
+            width: auto;
+            height: auto;
+            align-items: flex-start;
+            margin: 10px 0px;
+        }
+
+        .g9-variety span img{
+            width: 13rem;
+            height: 9rem;
+        }
+
+        .poster span img{
+            width: 23rem;
+        }
+
+        #brand-directory{
+            width: auto;
+            height: auto;
+            padding: 10px 5px;
+        }
+        .directory-heading, .directory-lists{
+            margin: 10px 0px;
+        }
+
+        .info_first{
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+
+        .part_of_info{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            padding: 0px;
+        }
+        .part_of_info ul{
+            margin: 10px 0px;
+        }
+        .info3{
+            height: 2rem;
+        }
+
+        .info_second{
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .info3 ul{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            gap: 4px    ;
+        }
+
+        .info4{
+            display: flex;
+            height: 40px;
+            /* border: 1px solid red; */
+        }
+        .info4 img{
+            width: 100%;
+        }
+
+        .info3-h{
+            height: 4rem;
+        }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px){
+ 
+    #header{
+        display: block;
+        /* border: 1px solid black; */
+        position: static;
+        height: auto;
+        width: auto;
+    }
+
+    #site-logo{
+        /* border: 1px solid red; */
+        text-align: center;
+        height: auto;
+        width: auto;
+    }
+
+    #mid-sec{
+        display: block;
+        /* border: 1px solid green; */
+        height: auto;
+        width: auto;
+        margin: 20px 0px;
+        
+    }
+
+    #user-login-menu{
+        /* border: 1px solid black; */
+        left: 50px;
+    }
+
+    .search-area{
+        width: auto;
+        margin: 0px;
+        margin: 10px 0px;
+        
+    }
+
+    #mid-sec .list-items{
+        margin: 10px 10px;
+        
+    }
+
+    #right-sec{
+        /* border: 1px solid black; */
+        display: flex;
+        width: auto;
+        
+    }
+    .right-sec-menu{
+        /* border: 1px solid black; */
+        right: 200px;
+        top: 37px;
+    }
+    #shoping-category{
+        /* border: 1px solid red; */
+        width: auto;
+        height: auto;
+        margin: 10px 0px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+     .dropdown-menu{
+            z-index: 1;
+            right: 0px;
+        }
+
+        .home-dropdownMenu{
+            left: 0px;
+            right: 0px;
+        }
+
+        .change-1{
+            /* border: 1px solid black; */
+            left: 85px;
+            top: 3rem;
+        }
+
+        .close-content{
+            flex-direction: column;
+            margin: 0px;
+        }
+
+        .smartphone-heading{
+            margin: 10px 0px;
+            font-size: 16px;
+        }
+
+        .smartphone-lists{
+            width: auto;
+            margin: 10px 0px;
+        }
+
+        .side-advertise{
+            margin: 0px;
+            width: auto;
+            display: inline-block;
+            padding-left: 20px;
+        }
+
+        #poster{
+            margin: 10px 0px;
+            width: auto;
+            height: auto;
+
+        }
+
+        .poster-img img{
+            width: 22rem;
+        }
+
+        .variety-of-smartphones{
+            height: auto;
+            width: auto;
+        }
+
+        .f9-variety img{
+            /* border: 1px solid red; */
+            width: 375px;
+        }
+
+        .gifting-lists{
+            width: auto;
+            height: auto;
+        }
+        .gifting-heading{
+            font-size: 16px;
+        }
+
+        .gifting-items{
+            width: auto;
+            height: auto;
+            flex-wrap: nowrap;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .g9-variety{
+            width: auto;
+            height: auto;
+            align-items: center;
+            margin: 20px 0px;
+            justify-content: center;
+        }
+
+        .g9-variety span img{
+            width: 18rem;
+            height: 12rem;
+    
+        }
+
+        .poster{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+            width: auto;
+        }
+
+        .poster span img{
+            width: 100%;
+            height: 20rem;
+        }
+
+        #brand-directory{
+            width: auto;
+            height: auto;
+            padding: 10px 5px;
+        }
+        .directory-heading, .directory-lists{
+            margin: 10px 0px;
+        }
+
+        .info_first{
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+
+        .part_of_info{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            padding: 0px;
+        }
+        .part_of_info ul{
+            margin: 10px 13px;
+        }
+        .info3{
+            height: 2rem;
+        }
+
+        .info_second{
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .info3 ul{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            gap: 30px    ;
+        }
+
+        .info4{
+            display: flex;
+            height: 40px;
+            /* border: 1px solid red; */
+        }
+        .info4 img{
+            width: 100%;
+        }
+
+        .info3-h{
+            height: 4rem;
+        }
+
+        .adv-style{
+            width: 100%;
+            height: 47rem;
+        
+        }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1279px){
+ 
+     #header{
+       flex-wrap: wrap;
+       height: auto;
+       margin-bottom: 20px;
+    }
+
+   #site-logo{
+       margin: 12px 0px;
+    }
+
+    #mid-sec{
+     
+        margin: 12px 0px;
+        
+    }
+
+  
+
+  
+
+ 
+
+    #right-sec{
+       margin: 12px 0px;
+        
+    }
+  
+    #shoping-category{
+        height: auto;
+        width: auto;
+        flex-wrap: wrap;
+        margin-top: 12.8rem;
+    }
+     .dropdown-menu{
+            z-index: 1;
+            right: 0px;
+        }
+
+        .home-dropdownMenu{
+            left: 0px;
+            right: 0px;
+        }
+
+        .change-1{
+             /* border: 1px solid black;  */
+            left: 100px;
+            top: 3rem;
+        }
+
+        .close-content{
+            flex-wrap: wrap;
+        }
+
+      
+
+        .smartphone-lists{
+            width: 100%;
+        
+        }
+
+        .side-advertise{
+            margin: 0px;
+            width: auto;
+            display: inline-block;
+            padding-left: 20px;
+        }
+
+        #poster{
+            margin: 10px 0px;
+            width: auto;
+            height: auto;
+
+        }
+
+        .poster-img img{
+            width: 22rem;
+        }
+
+        .variety-of-smartphones{
+            height: auto;
+            width: auto;
+        }
+
+        .f9-variety img{
+            /* border: 1px solid red;  */
+            width: 375px;
+        }
+
+        .gifting-lists{
+            width: auto;
+            height: auto;
+        }
+        .gifting-heading{
+            font-size: 16px;
+        }
+
+        .gifting-items{
+            width: auto;
+            height: auto;
+            flex-wrap: nowrap;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .g9-variety{
+            width: auto;
+            height: auto;
+            align-items: center;
+            margin: 20px 0px;
+            justify-content: center;
+        }
+
+        .g9-variety span img{
+            width: 18rem;
+            height: 12rem;
+    
+        }
+
+        .poster{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+            width: auto;
+        }
+
+        .poster span img{
+            width: 100%;
+            height: 20rem;
+        }
+
+        #brand-directory{
+            width: auto;
+            height: auto;
+            padding: 10px 5px;
+        }
+        .directory-heading, .directory-lists{
+            margin: 10px 0px;
+        }
+
+        .info_first{
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+
+        .part_of_info{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            padding: 0px;
+        }
+        .part_of_info ul{
+            margin: 10px 13px;
+        }
+        .info3{
+            height: 2rem;
+        }
+
+        .info_second{
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .info3 ul{
+            width: auto;
+            height: auto;
+            flex-wrap: wrap;
+            gap: 30px    ;
+        }
+
+        .info4{
+            display: flex;
+            height: 40px;
+            /* border: 1px solid red;  */
+        }
+        .info4 img{
+            width: 100%;
+        }
+
+        .info3-h{
+            height: 4rem;
+        }
+
+        .adv-style{
+            width: 100%;
+            height: 47rem;
+        
+        } 
+}
